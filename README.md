@@ -3,6 +3,7 @@ We use sequence mining to uncover frequent, interesting patterns from temporal d
 
 ### YouTube tutorial
 See my Youtube video for how to understand this code:
+https://youtu.be/6orYG5Aqlm8
 
 ### sequence_mining.R: 
 This R code implements sequential pattern mining using an algorithm called cSPADE. The package name is arulesSequences.
