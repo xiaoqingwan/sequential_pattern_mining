@@ -1,4 +1,4 @@
-# sequential Pattern Mining
+# Sequential Pattern Mining using cSPADE in R
 We use sequence mining to uncover frequent, interesting patterns from temporal data.
 
 ### YouTube tutorial
